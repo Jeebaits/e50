@@ -1,0 +1,19 @@
+{
+  "name": "e50-expressserver",
+  "version": "1.0.0",
+  "description": "basic express server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "jerald ramos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
